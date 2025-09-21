@@ -1,5 +1,4 @@
-  # 💫 About Me:
-# 👋 Hi, I’m Vaibhav Acharya  <br><br>I’m a 7th-semester Information Science Engineering student who loves building **full-stack Web applications** and exploring **AI/ML technologies**.  <br>I use my GitHub account to showcase my mini-projects, experiment with new frameworks, to show my learning across various concepts and improve my problem-solving skills.<br><br>---<br><br>
+# 👋 Hi, I’m Vaibhav Acharya  <br><br>I’m a 7th-semester Information Science Engineering student who loves building **full-stack Web applications** and exploring **AI/ML technologies**.  <br>I use my GitHub account to showcase my mini-projects, experiment with new frameworks, to show my learning across various concepts and improve my problem-solving skills.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vaibhavnacharya) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@vaibhavacharya46) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaibhavacharya46@gmail.com) 
